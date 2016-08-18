@@ -225,7 +225,7 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
-  "~*x Jack ~*y": [
+  "~*x do you know jack ~*y": [
     "Oh wow he sounds like a nerd",
     "lmao what a drip",
     "Don't worry girl, youre prettier than him",
